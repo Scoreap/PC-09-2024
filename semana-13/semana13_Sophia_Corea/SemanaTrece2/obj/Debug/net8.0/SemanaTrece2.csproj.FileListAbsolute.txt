@@ -1,0 +1,14 @@
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/bin/Debug/net8.0/SemanaTrece2
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/bin/Debug/net8.0/SemanaTrece2.deps.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/bin/Debug/net8.0/SemanaTrece2.runtimeconfig.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/bin/Debug/net8.0/SemanaTrece2.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/bin/Debug/net8.0/SemanaTrece2.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.AssemblyInfoInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.AssemblyInfo.cs
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.csproj.CoreCompileInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/refint/SemanaTrece2.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/SemanaTrece2.genruntimeconfig.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/SemanaTrece2/obj/Debug/net8.0/ref/SemanaTrece2.dll
