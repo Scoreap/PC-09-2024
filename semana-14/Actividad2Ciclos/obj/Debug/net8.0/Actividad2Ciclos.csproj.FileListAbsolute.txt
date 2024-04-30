@@ -1,0 +1,14 @@
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/bin/Debug/net8.0/Actividad2Ciclos
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/bin/Debug/net8.0/Actividad2Ciclos.deps.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/bin/Debug/net8.0/Actividad2Ciclos.runtimeconfig.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/bin/Debug/net8.0/Actividad2Ciclos.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/bin/Debug/net8.0/Actividad2Ciclos.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.AssemblyInfoInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.AssemblyInfo.cs
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.csproj.CoreCompileInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/refint/Actividad2Ciclos.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/Actividad2Ciclos.genruntimeconfig.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Actividad2Ciclos/obj/Debug/net8.0/ref/Actividad2Ciclos.dll
