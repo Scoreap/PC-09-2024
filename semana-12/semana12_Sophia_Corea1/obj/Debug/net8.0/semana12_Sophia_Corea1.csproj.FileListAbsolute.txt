@@ -1,0 +1,14 @@
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/bin/Debug/net8.0/semana12_Sophia_Corea1
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/bin/Debug/net8.0/semana12_Sophia_Corea1.deps.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/bin/Debug/net8.0/semana12_Sophia_Corea1.runtimeconfig.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/bin/Debug/net8.0/semana12_Sophia_Corea1.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/bin/Debug/net8.0/semana12_Sophia_Corea1.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.AssemblyInfoInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.AssemblyInfo.cs
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.csproj.CoreCompileInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/refint/semana12_Sophia_Corea1.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/semana12_Sophia_Corea1.genruntimeconfig.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/semana12_Sophia_Corea1/obj/Debug/net8.0/ref/semana12_Sophia_Corea1.dll
