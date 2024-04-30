@@ -1,0 +1,14 @@
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/bin/Debug/net8.0/Semana15
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/bin/Debug/net8.0/Semana15.deps.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/bin/Debug/net8.0/Semana15.runtimeconfig.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/bin/Debug/net8.0/Semana15.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/bin/Debug/net8.0/Semana15.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.AssemblyInfoInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.AssemblyInfo.cs
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.csproj.CoreCompileInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/refint/Semana15.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/Semana15.genruntimeconfig.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Semana15/obj/Debug/net8.0/ref/Semana15.dll
