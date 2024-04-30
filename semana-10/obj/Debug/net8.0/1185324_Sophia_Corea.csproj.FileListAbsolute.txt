@@ -1,0 +1,14 @@
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.AssemblyInfoInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.AssemblyInfo.cs
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.csproj.CoreCompileInputs.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/bin/Debug/net8.0/1185324_Sophia_Corea
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/bin/Debug/net8.0/1185324_Sophia_Corea.deps.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/bin/Debug/net8.0/1185324_Sophia_Corea.runtimeconfig.json
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/bin/Debug/net8.0/1185324_Sophia_Corea.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/bin/Debug/net8.0/1185324_Sophia_Corea.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/refint/1185324_Sophia_Corea.dll
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.pdb
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/1185324_Sophia_Corea.genruntimeconfig.cache
+/Users/coreasophia/Desktop/Universidad/PC/Actividades/ProgramacionCSharp/Sophia_Corea1185324/obj/Debug/net8.0/ref/1185324_Sophia_Corea.dll
