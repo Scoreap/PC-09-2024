@@ -1,0 +1,14 @@
+/Users/coreasophia/Desktop/Universidad/Parcial2/bin/Debug/net8.0/Parcial2
+/Users/coreasophia/Desktop/Universidad/Parcial2/bin/Debug/net8.0/Parcial2.deps.json
+/Users/coreasophia/Desktop/Universidad/Parcial2/bin/Debug/net8.0/Parcial2.runtimeconfig.json
+/Users/coreasophia/Desktop/Universidad/Parcial2/bin/Debug/net8.0/Parcial2.dll
+/Users/coreasophia/Desktop/Universidad/Parcial2/bin/Debug/net8.0/Parcial2.pdb
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.AssemblyInfoInputs.cache
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.AssemblyInfo.cs
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.csproj.CoreCompileInputs.cache
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.dll
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/refint/Parcial2.dll
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.pdb
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/Parcial2.genruntimeconfig.cache
+/Users/coreasophia/Desktop/Universidad/Parcial2/obj/Debug/net8.0/ref/Parcial2.dll
